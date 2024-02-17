@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(228, 228, 44);
+}
+
+header{
+    background-color: rgb(228, 228, 44);
+    padding: 1vw;
+}
+
+#comidas{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: rgb(228, 228, 44);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 50px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:green !important;
+}
+
+img{
+    height: 400px;
+}
+
+.fondo1{
+    background-image: url(../img/fondodorilla.png);
+    padding: 2vw;
+    background-size: cover;
+}
+
+#receta1{
+    color: black;
+}
+
+.fondo2{
+    background-image: url(../img/fondoramen.png);
+    padding: 2vw;
+    background-size: cover;
+}
+
+#receta2{
+    color: black;
+}
+
+.fondo3{
+    background-image: url(../img/fondotakoyaki.png);
+    padding: 2vw;
+    background-size: cover;
+}
+
+#receta3{
+    color: black;
+}
+
+.fondo4{
+    background-image: url(../img/fondoNikuman.png);
+    padding: 2vw;
+    background-size: cover;
+}
+
+#receta4 {
+    color: black;
+}
+
+.fondo5{
+    background-image: url(../img/fondoomurise.png);
+    padding: 2vw;
+    background-size: cover;
+}
+
+#receta5 {
+    color: black;
+}
+
+.preparacion{
+    margin-top: 1vw;
+}
+
+footer{
+    padding-top: 2vw;
+    background-color: rgb(228, 228, 44);
+}
+
+.autor{
+    margin-top: 1vw;
+}
