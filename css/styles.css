@@ -1,11 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(228, 228, 44);
+    background-color: #6a7e44;
 }
 
 header{
-    background-color: rgb(228, 228, 44);
+    background-color: #859e56;
     padding: 1vw;
 }
 
@@ -13,7 +13,7 @@ header{
     position: sticky;
     top: 0;
     z-index: 1000;
-    background-color: rgb(228, 228, 44);
+    background-color: #859e56;
 }
 
 h1{
@@ -28,7 +28,7 @@ a{
 }
 
 a:hover{
-    color:green !important;
+    color:rgb(16, 133, 16) !important;
 }
 
 img{
@@ -91,7 +91,7 @@ img{
 
 footer{
     padding-top: 2vw;
-    background-color: rgb(228, 228, 44);
+    background-color: #859e56;
 }
 
 .autor{
